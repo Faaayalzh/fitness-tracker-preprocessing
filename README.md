@@ -27,8 +27,18 @@ Assess the quality of the fitness data and prepare it for exploratory analysis, 
 
 ## Key Findings
 - Numeric features had realistic ranges (for example heart rate 60 to about 180 bpm).
-- Correlations between numeric features were weak overall.
+- Correlations between numeric features were very weak (all within about ±0.08 in the sample).
 - Categories (workout type, mood, weather) were fairly evenly distributed, with only small differences in calories and sleep.
+- In the sample, yoga shows a somewhat higher average calories burned than the other workout types; weather conditions show only small differences.
+ 
+## Visualizations
+The plots below were generated from a sample of the data.
+
+![Correlation Heatmap](images/Screenshot_2026-11-05_150653.png)
+
+![Calories Burned by Weather Conditions](images/Screenshot_2026-11-05_150636.png)
+
+![Average Calories Burned by Workout Type](images/Screenshot_2026-11-05_150744.png)
 
 ## Limitations
 - No demographic data (age, gender, weight).
