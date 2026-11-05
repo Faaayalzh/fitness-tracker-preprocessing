@@ -30,15 +30,15 @@ Assess the quality of the fitness data and prepare it for exploratory analysis, 
 - Correlations between numeric features were very weak (all within about ±0.08 in the sample).
 - Categories (workout type, mood, weather) were fairly evenly distributed, with only small differences in calories and sleep.
 - In the sample, yoga shows a somewhat higher average calories burned than the other workout types; weather conditions show only small differences.
- 
-## Visualizations
+
+ ## Visualizations
 The plots below were generated from a sample of the data.
 
-![Correlation Heatmap](images/correlation-heatmap.png)
+![Correlation Heatmap](correlation-heatmap.png)
 
-![Calories Burned by Weather Conditions](images/weather-boxplot.png)
+![Calories Burned by Weather Conditions](weather-boxplot.png)
 
-![Average Calories Burned by Workout Type](images/workout-calories.png)
+![Average Calories Burned by Workout Type](workout-calories.png)
 
 ## Limitations
 - No demographic data (age, gender, weight).
