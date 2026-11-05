@@ -34,11 +34,11 @@ Assess the quality of the fitness data and prepare it for exploratory analysis, 
 ## Visualizations
 The plots below were generated from a sample of the data.
 
-![Correlation Heatmap](images/Screenshot_2026-11-05_150653.png)
+![Correlation Heatmap](images/correlation-heatmap.png)
 
-![Calories Burned by Weather Conditions](images/Screenshot_2026-11-05_150636.png)
+![Calories Burned by Weather Conditions](images/weather-boxplot.png)
 
-![Average Calories Burned by Workout Type](images/Screenshot_2026-11-05_150744.png)
+![Average Calories Burned by Workout Type](images/workout-calories.png)
 
 ## Limitations
 - No demographic data (age, gender, weight).
